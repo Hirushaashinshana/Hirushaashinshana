@@ -1,5 +1,3 @@
-# 💫 About Me:
-I am Hirusha Ashinshana<br>Now I live in Sri lanka<br>I'm currently learning python Programming<br>I want to be a Machine Learning engineer<br>
 
 
 ## 🌐 Socials:
