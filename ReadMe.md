@@ -15,6 +15,8 @@ I am Hirusha Ashinshana<br>Now I live in Sri lanka<br>I'm currently learning pyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hirushaashinshana&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6gb5h980brojkawvaqxzgeilk&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 [![](https://visitcount.itsvg.in/api?id=Hirushaashinshana&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
