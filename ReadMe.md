@@ -13,7 +13,8 @@ I am Hirusha Ashinshana<br>Now I live in Sri lanka<br>I'm currently learning pyt
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirushaashinshana&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hirushaashinshana&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hirushaashinshana&theme=onedark&no-frame=false&no-bg=true&margin-w=4)<<
+<h1>I'm listening on : </h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6gb5h980brojkawvaqxzgeilk&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
