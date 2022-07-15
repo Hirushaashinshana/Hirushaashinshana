@@ -13,7 +13,8 @@ I am Hirusha Ashinshana<br>Now I live in Sri lanka<br>I'm currently learning pyt
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirushaashinshana&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hirushaashinshana&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hirushaashinshana&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
@@ -23,3 +24,6 @@ I am Hirusha Ashinshana<br>Now I live in Sri lanka<br>I'm currently learning pyt
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hirushaashinshana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
