@@ -19,7 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=Hirushaashinshana&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirushaashinshana&label=Profile%20views&color=000000&style=flat" alt="hirushaashinshana" /> </p>
 
 
 
