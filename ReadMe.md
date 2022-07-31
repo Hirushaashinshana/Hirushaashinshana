@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Some Python Projects<br>🌱 I’m currently learning Python And Machine Learning
+🔭 I’m currently working on Some Python Projects<br>🌱 I’m currently learning Python And Machine Learning fundementals
 
 
 ## 🌐 Socials:
