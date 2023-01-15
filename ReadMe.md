@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently learning Machine Learning basics
+🔭  I’m currently learning Scikit-Learn
 
 
 ## 🌐 Socials:
