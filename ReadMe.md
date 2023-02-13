@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there<br><br>I like to train neural nets :)
+#  Hi there 
+<br><br>I like to train neural nets :)
 
 
 # 💻 Tech Stack:
